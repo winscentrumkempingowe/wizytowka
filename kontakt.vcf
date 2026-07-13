@@ -1,0 +1,9 @@
+BEGIN:VCARD
+VERSION:3.0
+N:WINS Centrum Kempingowe;;;;
+FN:WINS Centrum Kempingowe
+ORG:WINS Centrum Kempingowe
+TEL;TYPE=CELL:+48533448585
+EMAIL;TYPE=INTERNET:wins@kempingowa.pl
+ADR;TYPE=WORK:;;Warszawska 139;Rzeszów;;35-205;Polska
+END:VCARD
