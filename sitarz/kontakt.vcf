@@ -1,0 +1,9 @@
+BEGIN:VCARD
+VERSION:3.0
+N:Sitarz;Piotr;;;
+FN:Piotr Sitarz
+ORG:WINS Centrum Kempingowe
+TEL;TYPE=CELL:+48609095198
+EMAIL;TYPE=INTERNET:piotr.sitarz@kempingowa.pl
+ADR;TYPE=WORK:;;Warszawska 139;Rzeszów;;35-205;Polska
+END:VCARD
