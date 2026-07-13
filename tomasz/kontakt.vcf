@@ -1,0 +1,9 @@
+BEGIN:VCARD
+VERSION:3.0
+N:Zawadzki;Tomasz;;;
+FN:Tomasz Zawadzki
+ORG:WINS Centrum Kempingowe
+TEL;TYPE=CELL:+48660014051
+EMAIL;TYPE=INTERNET:tomasz.z@kempingowa.pl
+ADR;TYPE=WORK:;;Warszawska 139;Rzeszów;;35-205;Polska
+END:VCARD

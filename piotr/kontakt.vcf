@@ -1,0 +1,9 @@
+BEGIN:VCARD
+VERSION:3.0
+N:Idler;Piotr;;;
+FN:Piotr Idler
+ORG:WINS Centrum Kempingowe
+TEL;TYPE=CELL:+48794605303
+EMAIL;TYPE=INTERNET:piotr.idler@gmail.com
+ADR;TYPE=WORK:;;Warszawska 139;Rzeszów;;35-205;Polska
+END:VCARD
