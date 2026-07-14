@@ -1,0 +1,10 @@
+BEGIN:VCARD
+VERSION:3.0
+N:Lisek;Paweł;;;
+FN:Paweł Lisek
+ORG:Firma Transportowo-Handlowa Paweł Lisek
+TEL;TYPE=CELL:+48880646624
+TEL;TYPE=WORK:+48668152391
+EMAIL;TYPE=INTERNET:pawellisek126@gmail.com
+ADR;TYPE=WORK:;;Lipniki 126;Lipniki;;07-436;Polska
+END:VCARD
