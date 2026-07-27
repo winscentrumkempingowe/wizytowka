@@ -1,0 +1,9 @@
+BEGIN:VCARD
+VERSION:3.0
+N:Wiech;Kamil;;;
+FN:Kamil Wiech
+ORG:WINS Centrum Kempingowe
+TEL;TYPE=CELL:+48534383636
+EMAIL;TYPE=INTERNET:kaamilwiech@gmail.com
+ADR;TYPE=WORK:;;Warszawska 139;Rzeszów;;35-205;Polska
+END:VCARD
