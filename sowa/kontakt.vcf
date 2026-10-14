@@ -1,0 +1,9 @@
+BEGIN:VCARD
+VERSION:3.0
+N:Sowa;Tomasz;;;
+FN:Tomasz Sowa
+ORG:WINS Centrum Kempingowe
+TEL;TYPE=CELL:+48691532474
+EMAIL;TYPE=INTERNET:tomasz.sowa@kempingowa.pl
+ADR;TYPE=WORK:;;Warszawska 139;Rzeszów;;35-205;Polska
+END:VCARD
